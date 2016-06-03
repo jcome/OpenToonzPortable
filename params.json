@@ -1,0 +1,6 @@
+{
+  "name": "OpenToonz Portable",
+  "tagline": "Portable Version of OpenToonz - Windows Only",
+  "body": "## Open Toonz Portable Edition\r\nOpenToonz Portable Edition is just what it sounds like.  You can use the powerful OpenToonz 2D animation software without installing it.  Getting up and running is simple:\r\n\r\n* Download the zip file\r\n* Unzip the zip file to a destination of your choice\r\n* Run the OpenToonz program\r\n* Make awesome things.\r\n\r\n### Releases\r\nThe main release tracks with the current master branch of OpenToonz.  New builds will be posted every couple of days based on additions to the master branch.  \r\n\r\nIf there is interest in a bleeding edge version, with features that haven't yet been pulled into the master branch, please let me know and I will try and post a version.\r\n\r\n### Problems and Bugs\r\nThis software has not been thoroughly test yet.  There are bound to be bugs.  Please submit issues as you find them and I will try and get to them\r\n\r\n### Authors and Contributors\r\nOpenToonz Portable Editions is based on the software managed by Dwango.  The portable edition is managed by @turtletooth.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
